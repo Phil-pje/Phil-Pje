@@ -51,7 +51,7 @@
 <h3 align="left">💭 Why I'm here</h3>
 
 
-<p align="left">I grew up believing knowledge should be free. I still do.<br><br>Some of my projects are MIT so take them, break them, make them better.<br><br>Others use AGPL: open to read, open to learn from, not open to resell as a service.<br><br>This is my playground. I build tools I need, I learn by doing, I share what works.<br><br>If something here helps you, that's the whole point.</p>
+<p align="left">I grew up believing knowledge should be free. I still do.<br><br>Some of my projects are MIT, so take them, break them, make them better.<br><br>Others use AGPL: open to read, open to learn from, not open to resell as a service.<br><br>This is my playground. I build tools I need, I learn by doing, I share what works.<br><br>If something here helps you, that's the whole point.</p>
 
 
 <div align="center">
