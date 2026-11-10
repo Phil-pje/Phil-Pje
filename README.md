@@ -1,22 +1,16 @@
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Phil&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Systems%20by%20day%2C%20local-first%20tools%20by%20night&descSize=18&descAlign=50&descAlignY=72&theme=cobalt" alt="Phil" />
 </div>
 
+## Hi, I'm Phil 👋
+#### By day, a respectable IT professional in a tie. I make systems talk to each other: people, networks, infrastructure, automation.
+#### By night, I build the tools I wish existed.
+I come from the systems and networks side of IT, not from software. I believe in open source, in sharing knowledge, and in the fact that LLMs have democratized coding for people like me: they don't replace real developers, they just let the rest of us play too.
+At work, discretion and reliability come before everything else. My personal projects follow the same rule: small, local-first tools that respect your data because they never see it.
 
-<h2 align="left">Hi, I'm Phil 👋</h2>
-
-
-<h4 align="left">By day, a respectable IT professional in a tie.<br>I make systems talk to each other: people, networks, infrastructure, automation.<br>By night I build the tools I wish existed.</h4>
-
-
-<p align="left">I come from the systems side of IT, not from software. I believe in open source, in sharing knowledge, and in the fact that LLMs have democratized coding for people like me, not replacing real developers, just letting the rest of us play too.<br><br>So now I ship small, local-first tools, the kind that respect your data because they never see it.</p>
-
-
-<div align="left">
-  <a href="mailto:3yellowlabel@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+<a href="mailto:3yellowlabel@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
+</a>
 
 
 <picture>
@@ -50,12 +44,13 @@
 </div>
 
 
-<h3 align="left">💭 Why I'm here</h3>
-
-
-<p align="left">I grew up believing knowledge should be free. I still do.<br><br>Some of my projects are MIT, so take them, break them, make them better.<br><br>Others use AGPL: open to read, open to learn from, not open to resell as a service.<br><br>This is my playground. I build tools I need, I learn by doing, I share what works.<br><br>If something here helps you, that's the whole point.</p>
-
-
+### 💭 Why I'm here
+I grew up believing knowledge should be free. I still do.
+> [!NOTE]
+> **MIT projects:** take them, break them, make them better.<br>
+> **AGPL projects:** open to read, open to learn from, not open to resell as a service.
+This is my playground. I build tools I need, I learn by doing, I share what works. If something here helps you, that's the whole point.
+<br>
 <div align="center">
-  "I'm not a developer. But the code doesn't know that."
+  <sub><i>"I'm not a developer. But the code doesn't know that."</i></sub>
 </div>
