@@ -45,13 +45,15 @@ I write about technology, infrastructure and digital culture: how things work, a
 
 Small, local-first tools I build after hours. The pinned ones are right below; the rest, experiments included, is one click away.
 
+The latest: **[PixelCake](https://pixelcake.dev)**, a network designer that runs in the browser and tells you why a ping does not get through.
+
 [*Browse all repositories →*](https://github.com/Phil-pje?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<sub><em>MIT projects: take them, break them, make them better. AGPL projects: open to read and learn from, not to resell as a service.</em></sub>
+<sub><em>MIT projects: take them, break them, make them better. AGPL projects: use them and change them as you like; if you offer a changed version as a service, share your changes.</em></sub>
 
 #### *Infrastructure & systems*
 
