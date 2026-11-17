@@ -1,7 +1,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/top-dark.png"><img src="assets/top-light.png" align="left" width="100.0000%" alt="Phil. People, systems, ideas."></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/left-dark.png"><img src="assets/left-light.png" align="left" width="5.5955%" alt=""></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/right-dark.png"><img src="assets/right-light.png" align="right" width="43.2454%" alt="Cherry tree with a paper lantern and a red torii gate"></picture>
 
-I'm Phil. This is what happens after "one last thing."
+### I'm Phil. This is what happens after "one last thing."
 
 By day, I make **organisations, teams and systems** talk to each other.
 
@@ -9,11 +9,18 @@ I come from systems and networks. I like joining the dots between technical deci
 
 After hours, I write and build the things I wish existed.
 
+
 > *I grew up believing knowledge should be free. Writing and open source are two ways I try to put that into practice.*
 
-*I'm not a developer. But the code doesn't know that.*
 
 **[Say hello →](mailto:3yellowlabel@gmail.com)**
+
+<br clear="all">
+
+
+<p align="center">
+*I'm not a developer. But the code doesn't know that.*
+</p>
 
 <br clear="all">
 
