@@ -19,7 +19,7 @@ After hours, I write and build the things I wish existed.
 
 
 <p align="center">
-*I'm not a developer. But the code doesn't know that.*
+<em/>I'm not a developer. But the code doesn't know that.</em>
 </p>
 
 <br clear="all">
