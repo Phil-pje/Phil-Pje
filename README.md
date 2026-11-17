@@ -1,56 +1,62 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Phil&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Systems%20by%20day%2C%20local-first%20tools%20by%20night&descSize=18&descAlign=50&descAlignY=72&theme=cobalt" alt="Phil" />
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/top-dark.png"><img src="assets/top-light.png" align="left" width="100.0000%" alt="Phil. People, systems, ideas."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/left-dark.png"><img src="assets/left-light.png" align="left" width="5.5955%" alt=""></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/right-dark.png"><img src="assets/right-light.png" align="right" width="43.2454%" alt="Cherry tree with a paper lantern and a red torii gate"></picture>
 
-## Hi, I'm Phil 👋
-#### By day, a respectable IT professional in a tie. I make systems talk to each other: people, networks, infrastructure, automation.
-#### By night, I build the tools I wish existed.
-I come from the systems and networks side of IT, not from software. I believe in open source, in sharing knowledge, and in the fact that LLMs have democratized coding for people like me: they don't replace real developers, they just let the rest of us play too.
-At work, discretion and reliability come before everything else. My personal projects follow the same rule: small, local-first tools that respect your data because they never see it.
+I'm Phil. This is what happens after "one last thing."
 
-<a href="mailto:3yellowlabel@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
-</a>
+By day, I make **organisations, teams and systems** talk to each other.
 
+I come from systems and networks. I like joining the dots between technical decisions, the people making them, and what they're trying to get done.
 
+After hours, I write and build the things I wish existed.
+
+> *I grew up believing knowledge should be free. Writing and open source are two ways I try to put that into practice.*
+
+*I'm not a developer. But the code doesn't know that.*
+
+**[Say hello →](mailto:3yellowlabel@gmail.com)**
+
+<br clear="all">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub>WRITING</sub>
+
+### [Network Caffè](https://www.netcaffe.biz/)
+
+I write about technology, infrastructure and digital culture: how things work, and what they mean for the people around them.
+
+[*Read the magazine →*](https://www.netcaffe.biz/)
+
+</td>
+<td width="50%" valign="top">
+
+<sub>CODE</sub>
+
+### [Repositories](https://github.com/Phil-pje?tab=repositories)
+
+Small, local-first tools I build after hours. The pinned ones are right below; the rest, experiments included, is one click away.
+
+[*Browse all repositories →*](https://github.com/Phil-pje?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<sub><em>MIT projects: take them, break them, make them better. AGPL projects: open to read and learn from, not to resell as a service.</em></sub>
+
+#### *Infrastructure & systems*
+
+<img src="https://img.shields.io/badge/Linux-12304a?style=for-the-badge&logo=linux&logoColor=e8d8b8" alt="Linux"> <img src="https://img.shields.io/badge/Proxmox-12304a?style=for-the-badge&logo=proxmox&logoColor=e8d8b8" alt="Proxmox"> <img src="https://img.shields.io/badge/Docker-12304a?style=for-the-badge&logo=docker&logoColor=e8d8b8" alt="Docker"> <img src="https://img.shields.io/badge/Azure-12304a?style=for-the-badge" alt="Azure">
+
+#### *Tool building*
+
+<img src="https://img.shields.io/badge/Python-12304a?style=for-the-badge&logo=python&logoColor=e8d8b8" alt="Python"> <img src="https://img.shields.io/badge/Go-12304a?style=for-the-badge&logo=go&logoColor=e8d8b8" alt="Go"> <img src="https://img.shields.io/badge/JavaScript-12304a?style=for-the-badge&logo=javascript&logoColor=e8d8b8" alt="JavaScript"> <img src="https://img.shields.io/badge/Node.js-12304a?style=for-the-badge&logo=nodedotjs&logoColor=e8d8b8" alt="Node.js"> <img src="https://img.shields.io/badge/React-12304a?style=for-the-badge&logo=react&logoColor=e8d8b8" alt="React"> <img src="https://img.shields.io/badge/Vite-12304a?style=for-the-badge&logo=vite&logoColor=e8d8b8" alt="Vite">
+
+<!-- Pac-Man dei contributi: per riattivarlo togli il commento (il workflow lo aggiorna da solo)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phil-pje/Phil-pje/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phil-pje/Phil-pje/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Phil-pje/Phil-pje/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Phil-pje/Phil-pje/output/pacman-contribution-graph.svg">
 </picture>
-
-
-<h3 align="left">🛠️ What I tinker with</h3>
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-</div>
-
-
-### 💭 Why I'm here
-I grew up believing knowledge should be free. I still do.
-> [!NOTE]
-> **MIT projects:** take them, break them, make them better.<br>
-> **AGPL projects:** open to read, open to learn from, not open to resell as a service.
-This is my playground. I build tools I need, I learn by doing, I share what works. If something here helps you, that's the whole point.
-<br>
-<div align="center">
-  <sub><i>"I'm not a developer. But the code doesn't know that."</i></sub>
-</div>
+-->
